@@ -16,6 +16,14 @@ cd projeto-landing-page
 
 Em seguida, abra o arquivo `index.html` no seu navegador preferido para visualizar a página.
 
+## Autores
+
+- [Tiago Ferrari](https://github.com/tiagoferrari-projects/).
+
+## Contribuição
+
+Sinta-se à vontade para contribuir para este projeto, abrindo problemas (issues) ou enviando pull requests.
+
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
