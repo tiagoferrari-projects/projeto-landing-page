@@ -15,14 +15,6 @@ cd projeto-landing-page
 ```
 
 Em seguida, abra o arquivo `index.html` no seu navegador preferido para visualizar a página.
-## Contribuindo
-
-Contribuições são sempre bem-vindas!
-
-Veja `contribuindo.md` para saber como começar.
-
-Por favor, siga o `código de conduta` desse projeto.
-
 
 ## Licença
 
